@@ -8,7 +8,7 @@ I just thought about it, so I don't have any specific plans, but maybe this beco
 of videos if there is interest.
  a means we move to edit mode starting to append text
 
-
+```
 a - append
 i - insert
 O - edit mode inster new line above current line
@@ -27,4 +27,4 @@ x - x delete the current character
 $ - jump to end of line
 d$ - delete till end of line
 
-
+```
